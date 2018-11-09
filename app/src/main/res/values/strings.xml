@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Display</string>
+    <string name="space_demo">valor1, /n, valor2</string>
+    <string name="CampoObligatorio">Campo Obligatorio</string>
+</resources>
